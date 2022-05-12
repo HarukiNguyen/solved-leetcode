@@ -21,3 +21,5 @@ var twoSum = function (nums, target) {
     }
   }
 };
+
+// this is my first JS exercise
