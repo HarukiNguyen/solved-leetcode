@@ -34,3 +34,5 @@ console.log(isPalindrome(121));
 //   } else {
 //     return false;
 //   }
+
+// I added a new cmt on this file because it doesn't have any before
