@@ -1,0 +1,7 @@
+# ignore unused html file
+
+*.html
+
+# ignore solving file
+
+solving.js
